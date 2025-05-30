@@ -3,7 +3,7 @@
 :root{ /*definir variaveis de cor*/
     --cor-de-fundo: #EBECEE;
     --cor-cabecalho: rgb(147, 64, 20);
-    --cor-fonte: #2b0036;
+    --cor-fonte: #000000;
 }
 body{ /*estilizacao do corpo da pagina*/
     background-color: var(--cor-de-fundo);
